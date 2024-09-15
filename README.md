@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋 I'm Justin DeLeon</h1>
 
 # 🎓 About Me:
-I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications
+I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications. Currently, I'm working at a startup, AI Powered Mobility where I'm researching applications and capabilites of ML/AI Transformer/Vision Models. Feel free to contact me at my email at jydeleon@terpmail.umd.edu
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring NLP with [scikit-learn](https://scikit-learn.org/)
-- 📷 Learning Computer Vision Basics and Image manipulation with mathplot.lib & openCV
-
-[//]: <Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)>
+- 🤖 Exploring and finetuning ML/Vision Transformer Models and testing their ability for image classification (AI Power Mobility [Startup])
+- 📷 Learning about Compilors, how to write one, and computer infrastructures in general
+- 🏫 Currently taking Applications of Linear Algebra course discussing its purpose and application in Neural Models, 3D Projections, Video Game Theory, and other CS topics
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-deleon-111306254/)
