@@ -1,3 +1,6 @@
+CS @ UMD
+<!-- 
+
 <h1 align="center">Hi 👋 I'm Justin DeLeon</h1>
 
 # 🎓 About Me:
@@ -12,7 +15,11 @@ I am a ML focused Computer Science student at The University of Maryland College
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-deleon-111306254/)
 
-<!--# 💻 Tech Stack:
+
+-->
+
+<!--
+# 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
