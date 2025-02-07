@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Justin DeLeon</h1>
 
 # 🎓 About Me:
-I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications. Currently, I'm working at a startup, AI Powered Mobility where I'm researching applications and capabilites of ML/AI Transformer/Vision Models. Feel free to contact me at my email at jydeleon@terpmail.umd.edu
+I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications. Currently, I'm working at a startup, AI Powered Mobility where I'm researching applications and capabilites of ML/AI Transformer/Vision Models. Feel free to contact me at my email at jydeleon [at] terpmail [dot] umd [dot] edu
 
 ## 🚀 What I'm Up To
 
@@ -12,7 +12,7 @@ I am a ML focused Computer Science student at The University of Maryland College
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-deleon-111306254/)
 
-# 💻 Tech Stack:
+<!--# 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -21,7 +21,8 @@ Languages:
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![UNIX](https://img.shields.io/badge/Unix-E6BE37?style=for-the-badge&logo=Unix&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
+-->
 <!--add later or things to learn for the future--> 
 <!--
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
