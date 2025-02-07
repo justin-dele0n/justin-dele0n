@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Justin DeLeon</h1>
 
 # 🎓 About Me:
-I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications. Currently, I'm working at a startup, AI Powered Mobility where I'm researching applications and capabilites of ML/AI Transformer/Vision Models. Feel free to contact me at my email at jydeleon [at] terpmail [dot] umd [dot] edu
+I am a ML focused Computer Science student at The University of Maryland College Park, passionate about expanding my knowledge within AI through creating robust applications. Currently, I'm working at a startup, AI Powered Mobility where I'm researching applications and capabilites of ML/AI Transformer/Vision Models. Feel free to contact me at my email at: jydeleon [at] terpmail [dot] umd [dot] edu
 
 ## 🚀 What I'm Up To
 
